@@ -5,8 +5,79 @@
 1. Data collection and authenticity
    - Quran
    - saha sita
+   - Generate uci
 2. Translation in Urdu and English
 3. Create APIs
+
+### 1.1 Milestone
+
+1. APIs available publicly
+2. Create SDK for web
+
+### 2. Milestone
+
+1. Create design system
+2. Create website for Quran
+3. Create website for Hadith
+
+### 3. Milestone
+
+1. Generate tag for Quran
+2. Generate Tag for Hadith
+3. Attach context to Quran Ayah
+4. Attach Hadithes to Ayah
+5. Combine Same Hadith narated by different Sahaba (R.A)
+6. Link same topics of Quran
+
+### 4. Milestone
+
+1. Simple search by word
+2. Search by tags
+3. Show context of Ayah
+4. Show Same topic related to Ayah
+5. Show related Hadith to Ayah
+
+### 5. Milestone
+
+1. Implement NLP
+2. Auto correct user query (e.g Did you mean?)
+3. Range Ayahs and Hadithes
+4. Understand book form user query
+
+### 6. Milestone
+
+1. Implement AI
+2. Convert data into vector embedding
+3. Generate Hash for user query
+4. Search through embedding
+
+### 7. Milestone
+
+1. Implement Voice search
+2. Convert voice into text and then translate into English
+3. Use AI search to find related results
+4. Convert results back to user default Language
+
+### 8. Milestone
+
+1. Collect other Hadiths data
+2. Collect Quran Tafaseer
+3. Collect Fatawas
+4. Collect anyother Islamic Books or content
+5. Collect audio
+
+### 8.1 Milestone
+
+1. Create SDK for mobile
+
+### 9. Milestone
+
+1. Create portal for Madaras
+2. Create Portal for Mufti
+
+### 10. Milestone
+
+1. Create portal for Question Answers
 
 ### Features
 
